@@ -1,2 +1,2 @@
 # MARE
-Mult-hAzard assessment Engine
+Mult-hAzard Risk assessment Engine
